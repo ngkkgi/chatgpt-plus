@@ -42,7 +42,7 @@ ChatGPT 是一款由 OpenAI 开发的先进 AI 聊天工具，而 **ChatGPT Plus
 ### 使用 WildCard 升级 ChatGPT Plus 的具体步骤
 
 #### 步骤一：注册并登录 OpenAI 官方网站
-进入 [OpenAI 官网](https://chat.openai.com/) 登录你的账户。如果没有账户，请先完成注册流程，可参考：[2024 年最新保姆级注册教程](https://chatgptgogogo.com/how-to-register-chatgpt/) 。
+进入 [OpenAI 官网](https://chat.openai.com/) 登录你的账户。如果没有账户，请先完成注册流程 。
 
 #### 步骤二：选择升级选项
 在首页点击“我的服务”，找到 “OpenAI 专属服务” 并选择 **ChatGPT Plus/Team 一键升级** 按钮：
