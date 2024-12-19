@@ -25,8 +25,6 @@ ChatGPT 是一款由 OpenAI 开发的先进 AI 聊天工具，而 **ChatGPT Plus
 3. 卡片有效期为一年，无额外费用，一天成本不到 ¥0.2 元人民币。
 4. 支持随时提现，即使未消费金额也能秒提回支付宝。
 
-![WildCard 服务](https://github.com/user-attachments/assets/19bfdea7-7193-49bc-b229-eab6388260e0)
-
 ---
 
 ### 开通 WildCard 虚拟信用卡步骤
